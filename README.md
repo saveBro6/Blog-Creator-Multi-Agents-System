@@ -17,8 +17,8 @@ A **multi-agent AI system** that automatically creates and manages blog content 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/blog-creator-multi-agents.git
-   cd blog-creator-multi-agents
+   git clone https://github.com/saveBro6/Blog-Creator-Multi-Agents-System
+   cd Blog-Creator-Multi-Agents-System
    ```
 
 2. **Create and activate a virtual environment**
