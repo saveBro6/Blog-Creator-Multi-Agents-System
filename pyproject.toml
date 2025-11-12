@@ -1,0 +1,7 @@
+[project]
+name = "blog-creator-multi-agents"
+version = "0.1.0"
+description = "A blog creator multi-agents system using langgraph"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
